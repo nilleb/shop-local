@@ -12,7 +12,7 @@
 
 📞 04 78 48 27 42
 
-👍 (13) 💬 (3 - [voir tous les commentaires](https://nilleb.github.io/shop-local/boulangerie-costantino-avis))
+👍 (13) 💬 (3 - [voir tous les commentaires](boulangerie-costantino-avis.md))
 
 ### Epicerie Proxy
 
@@ -20,7 +20,7 @@
 
 📞 04 78 48 20 78
 
-👍 (13) 💬 (3 - [voir tous les commentaires](https://nilleb.github.io/shop-local/epicerie-proxy-avis))
+👍 (13) 💬 (3 - [voir tous les commentaires](epicerie-proxy-avis.md))
 
 ### Bar l'Escapade
 
@@ -32,7 +32,7 @@ Plâts à emporter
 
 📞 06 26 94 78 95
 
-👍 (13) 💬 (3 - [voir tous les commentaires](https://nilleb.github.io/shop-local/bar-l-escapade-avis))
+👍 (13) 💬 (3 - [voir tous les commentaires](bar-l-escapade-avis.md))
 
 ### Name
 
