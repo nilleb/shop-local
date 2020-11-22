@@ -1,4 +1,4 @@
-# Taluyers
+# Commerces de proximité à Taluyers
 
 Cette liste est ouverte - vous pouvez proposer sa modification par le biais de la [page GitHub correspondante](https://github.com/nilleb/shop-local/edit/gh-pages/index.md). Votre proposition sera intégrée selon la disponibilité des modérateurs, soyez bienveillants.
 
