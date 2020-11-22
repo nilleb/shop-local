@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Taluyers
 
-You can use the [editor on GitHub](https://github.com/nilleb/shop-local/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Commerces alimentaires
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Boulangerie Costantino
 
-### Markdown
+🌍 https://www.facebook.com/Boulangerie-Costantino-Tradition-567828003351993/
+📅 Fermé le dimanche après midi et le lundi
+📍 65 rue du pensionnat
+📞 04 78 48 27 42
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Epicerie Proxy
 
-```markdown
-Syntax highlighted code block
+📍 Place de la Bascule
+📞 04 78 48 20 78
 
-# Header 1
-## Header 2
-### Header 3
+### Bar l'Escapade
 
-- Bulleted
-- List
+Plâts à emporter
+📅 Fermé le lundi
+📍 Place de la Bascule
+📞 06 26 94 78 95
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nilleb/shop-local/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Name
+🌍
+📅 
+📍
+📞
