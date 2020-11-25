@@ -8,7 +8,7 @@ Cette liste est mise à votre disposition selon les termes de la [license MIT](h
 
 ### Mairie
 
-📞 04 78 48 37 17
+📞 04 78 48 73 17
 
 ## Commerces alimentaires
 
