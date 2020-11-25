@@ -315,6 +315,16 @@ Click and collect
 
 📞 04 78 48 75 56
 
+## Hervé Jaunet
+
+Tailleur de pierres, sculpteur
+
+🌍 [web site](http://www.hervejaunet.fr)
+
+📞 06 25 31 33 33
+
+📧 contact@hervejaunet.com
+
 ## Patrons - ne pas effacer svp
 
 ### Name
